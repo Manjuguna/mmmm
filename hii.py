@@ -1,7 +1,7 @@
 l=input("input a letter of the alphabet:")
 if l in('a','e','i','o','u'):
-    print("%s is an vowel."%l)
+    print("%s is a vowel."%l)
 elif l=='y':
-    print("sometimes y stands for constant,sometimes y stands for constant")
+    print("sometimes y stand for vowel,stand for constant")
 else:
-     print("%s is an constant."%l)
+    print("%s is a constant."%l)
